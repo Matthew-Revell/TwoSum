@@ -1,0 +1,7 @@
+C:\Users\Admin\RiderProjects\TwoSum\TwoSum\bin\Debug\TwoSum.exe
+C:\Users\Admin\RiderProjects\TwoSum\TwoSum\bin\Debug\TwoSum.pdb
+C:\Users\Admin\RiderProjects\TwoSum\TwoSum\obj\Debug\TwoSum.csproj.AssemblyReference.cache
+C:\Users\Admin\RiderProjects\TwoSum\TwoSum\obj\Debug\TwoSum.csproj.SuggestedBindingRedirects.cache
+C:\Users\Admin\RiderProjects\TwoSum\TwoSum\obj\Debug\TwoSum.csproj.CoreCompileInputs.cache
+C:\Users\Admin\RiderProjects\TwoSum\TwoSum\obj\Debug\TwoSum.exe
+C:\Users\Admin\RiderProjects\TwoSum\TwoSum\obj\Debug\TwoSum.pdb
